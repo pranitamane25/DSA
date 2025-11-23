@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.sourcelink.json
+D:\Transflower\TAP\DSA\stack-implementation\bin\Debug\net9.0\stack-implementation.exe
+D:\Transflower\TAP\DSA\stack-implementation\bin\Debug\net9.0\stack-implementation.deps.json
+D:\Transflower\TAP\DSA\stack-implementation\bin\Debug\net9.0\stack-implementation.runtimeconfig.json
+D:\Transflower\TAP\DSA\stack-implementation\bin\Debug\net9.0\stack-implementation.dll
+D:\Transflower\TAP\DSA\stack-implementation\bin\Debug\net9.0\stack-implementation.pdb
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.dll
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\refint\stack-implementation.dll
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.pdb
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\stack-implementation.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\stack-implementation\obj\Debug\net9.0\ref\stack-implementation.dll
