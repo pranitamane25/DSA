@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace transflower
 {
@@ -7,8 +6,8 @@ namespace transflower
     {
         public static void Main()
         {
-            int choice = 0;
-            var motivationalBook = new Shelf();
+            int choice;
+            Shelf motivationalBook = new Shelf();
 
             Console.WriteLine("Menu");
             Console.WriteLine("1. Add new book");
@@ -20,31 +19,25 @@ namespace transflower
             {
                 Console.WriteLine();
                 Console.Write("Enter your choice: ");
-                string input = Console.ReadLine();
-                if (!int.TryParse(input, out choice))
-                {
-                    Console.WriteLine("Invalid input. Please enter a number between 1 and 4.");
-                    continue;
-                }
+                choice = Convert.ToInt32(Console.ReadLine());
 
                 switch (choice)
                 {
                     case 1:
                         {
                             Console.Write("Enter book id: ");
-                            if (!int.TryParse(Console.ReadLine(), out int id))
-                            {
-                                Console.WriteLine("Invalid id. Aborting add.");
-                                break;
-                            }
+                            int id = Convert.ToInt32(Console.ReadLine());
 
                             Console.Write("Enter book title: ");
-                            string title = Console.ReadLine() ?? "";
+                            string title = Console.ReadLine();
 
                             Console.Write("Enter book author: ");
-                            string author = Console.ReadLine() ?? "";
+                            string author = Console.ReadLine();
 
-                            Book newBook = new Book { id = id, title = title, author = author };
+                            Book newBook = new Book();
+                            newBook.id = id;
+                            newBook.title = title;
+                            newBook.author = author;
 
                             motivationalBook.Push(newBook);
                             Console.WriteLine("Book pushed");
@@ -56,8 +49,9 @@ namespace transflower
                             Book poppedBook = motivationalBook.Pop();
 
                             if (poppedBook != null)
+                            {
                                 Console.WriteLine("Book popped: " + poppedBook.title);
-
+                            }
                             break;
                         }
 

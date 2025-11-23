@@ -37,7 +37,7 @@ namespace transflower
             }
 
             Book b1 = book[top];
-            book[top] = null; // optional: remove reference
+            // book[top] = null; 
             top--;
             return b1;
         }
