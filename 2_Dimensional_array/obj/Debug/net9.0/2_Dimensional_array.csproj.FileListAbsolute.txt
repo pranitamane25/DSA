@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\2_Dimensional_array\bin\Debug\net9.0\2_Dimensional_array.exe
+D:\Transflower\TAP\DSA\2_Dimensional_array\bin\Debug\net9.0\2_Dimensional_array.deps.json
+D:\Transflower\TAP\DSA\2_Dimensional_array\bin\Debug\net9.0\2_Dimensional_array.runtimeconfig.json
+D:\Transflower\TAP\DSA\2_Dimensional_array\bin\Debug\net9.0\2_Dimensional_array.dll
+D:\Transflower\TAP\DSA\2_Dimensional_array\bin\Debug\net9.0\2_Dimensional_array.pdb
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.sourcelink.json
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.dll
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\refint\2_Dimensional_array.dll
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.pdb
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\2_Dimensional_array.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\2_Dimensional_array\obj\Debug\net9.0\ref\2_Dimensional_array.dll
