@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\transpose_matrix\bin\Debug\net9.0\transpose_matrix.exe
+D:\Transflower\TAP\DSA\transpose_matrix\bin\Debug\net9.0\transpose_matrix.deps.json
+D:\Transflower\TAP\DSA\transpose_matrix\bin\Debug\net9.0\transpose_matrix.runtimeconfig.json
+D:\Transflower\TAP\DSA\transpose_matrix\bin\Debug\net9.0\transpose_matrix.dll
+D:\Transflower\TAP\DSA\transpose_matrix\bin\Debug\net9.0\transpose_matrix.pdb
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.sourcelink.json
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.dll
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\refint\transpose_matrix.dll
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.pdb
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\transpose_matrix.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\transpose_matrix\obj\Debug\net9.0\ref\transpose_matrix.dll
