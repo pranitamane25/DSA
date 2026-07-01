@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Linked_List\bin\Debug\net9.0\Linked_List.exe
+D:\Transflower\TAP\DSA\Linked_List\bin\Debug\net9.0\Linked_List.deps.json
+D:\Transflower\TAP\DSA\Linked_List\bin\Debug\net9.0\Linked_List.runtimeconfig.json
+D:\Transflower\TAP\DSA\Linked_List\bin\Debug\net9.0\Linked_List.dll
+D:\Transflower\TAP\DSA\Linked_List\bin\Debug\net9.0\Linked_List.pdb
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.sourcelink.json
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.dll
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\refint\Linked_List.dll
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.pdb
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\Linked_List.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Linked_List\obj\Debug\net9.0\ref\Linked_List.dll
