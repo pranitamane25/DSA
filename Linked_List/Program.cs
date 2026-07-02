@@ -1,34 +1,13 @@
-﻿using System;
-
-class Node
+﻿namespace Linked_List.LinkedList;
+ using Linked_List.Node;
+ using Linked_List.UIManager;
+public class Program
 {
-    public int Data;
-    public Node Next;
-}
+    public static void Main(String[] args){
 
-class Program
-{
-    static void Main()
-    {
-        Node n1 = new Node();
-        n1.Data = 10;
+    LinkedList list=new LinkedList();
+    UIManager mgr=new UIManager();   
+    mgr.start();
 
-        Node n2 = new Node();
-        n2.Data = 20;
-
-        Node n3 = new Node();
-        n3.Data = 30;
-
-        n1.Next = n2;
-        n2.Next = n3;
-        n3.Next = null;
-
-        Node temp = n1;
-
-        while (temp != null)
-        {
-            Console.WriteLine(temp.Data);
-            temp = temp.Next;
-        }
     }
 }
