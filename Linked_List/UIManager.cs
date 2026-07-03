@@ -10,21 +10,23 @@ public class UIManager
     while(!exit){
 
         Console.WriteLine("=====LinkedList Operations=====");
-        Console.WriteLine("1.Add");
+        Console.WriteLine("1.AddLast");
         Console.WriteLine("2.Display ");
         Console.WriteLine("3.Update ");
         Console.WriteLine("4.Remove");
-        Console.WriteLine("5.Exit");
+        Console.WriteLine("5.Add First");
+        Console.WriteLine("6.Exit");
 
         int choice=Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
                 case 1:
-                Console.WriteLine("Enter number to Add");
+                Console.WriteLine("Enter number to AddLast");
                 int num=Convert.ToInt32(Console.ReadLine());
-                list.Add(num);
+                list.AddLast(num);
                 Console.WriteLine("number added to list");
                 break;
+
 
                 case 2:
                 Console.WriteLine("Display list");
@@ -46,6 +48,12 @@ public class UIManager
                 break;
 
                 case 5:
+                Console.WriteLine("Enter add first value");
+                int AddFirst=Convert.ToInt32(Console.ReadLine());
+                list.AddFirst(AddFirst);
+                break;
+
+                case 6:
                 Console.WriteLine("exit");
                 return;
             }

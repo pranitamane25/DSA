@@ -1,11 +1,10 @@
 
 namespace Linked_List.Node;
-using Linked_List.Node;
 public class LinkedList
 {
     Node head=null;
 
-    public void Add(int data)
+    public void AddLast(int data)
     {
         Node newNode=new Node(data);
         
@@ -25,6 +24,23 @@ public class LinkedList
             current.Next=newNode;
         }
     }
+
+        public void AddFirst(int data)
+        {
+            Node newNode=new Node(data);
+
+            if (head == null)
+            {
+                head=newNode;
+            }
+            else
+            {
+                newNode.Next=head;
+                head=newNode;
+                
+            }
+
+        }
 
     public void Display()
     {
@@ -90,4 +106,6 @@ public class LinkedList
 
             Console.WriteLine("Node Not Found");
         }
+
+            
 }
