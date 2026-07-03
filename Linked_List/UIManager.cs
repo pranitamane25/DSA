@@ -15,7 +15,8 @@ public class UIManager
         Console.WriteLine("3.Update ");
         Console.WriteLine("4.Remove");
         Console.WriteLine("5.Add First");
-        Console.WriteLine("6.Exit");
+        Console.WriteLine("6.InsertInBetween");
+        Console.WriteLine("7.Invalid");
 
         int choice=Convert.ToInt32(Console.ReadLine());
             switch (choice)
@@ -54,7 +55,13 @@ public class UIManager
                 break;
 
                 case 6:
-                Console.WriteLine("exit");
+                Console.WriteLine("Enter number which you wnat to insert inbetween");
+                int InsertInBetween=Convert.ToInt32(Console.ReadLine());
+                list.InsertInBetween(InsertInBetween);
+                break;
+
+                default:
+                Console.WriteLine("Invalid choice");
                 return;
             }
     }

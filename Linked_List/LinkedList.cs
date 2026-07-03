@@ -130,7 +130,5 @@ public class LinkedList
                 // Insert the new node
                 newNode.Next = current.Next;
                 current.Next = newNode;
-            }
-
-            
+            }           
 }
