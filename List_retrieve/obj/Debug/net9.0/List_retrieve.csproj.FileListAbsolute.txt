@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\List_retrieve\bin\Debug\net9.0\List_retrieve.exe
+D:\Transflower\TAP\DSA\List_retrieve\bin\Debug\net9.0\List_retrieve.deps.json
+D:\Transflower\TAP\DSA\List_retrieve\bin\Debug\net9.0\List_retrieve.runtimeconfig.json
+D:\Transflower\TAP\DSA\List_retrieve\bin\Debug\net9.0\List_retrieve.dll
+D:\Transflower\TAP\DSA\List_retrieve\bin\Debug\net9.0\List_retrieve.pdb
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.sourcelink.json
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.dll
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\refint\List_retrieve.dll
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.pdb
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\List_retrieve.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\List_retrieve\obj\Debug\net9.0\ref\List_retrieve.dll

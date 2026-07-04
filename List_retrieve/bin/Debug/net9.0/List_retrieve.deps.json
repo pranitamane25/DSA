@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "List_retrieve/1.0.0": {
+        "runtime": {
+          "List_retrieve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List_retrieve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
