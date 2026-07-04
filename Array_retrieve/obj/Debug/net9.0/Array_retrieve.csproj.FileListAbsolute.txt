@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Array_retrieve\bin\Debug\net9.0\Array_retrieve.exe
+D:\Transflower\TAP\DSA\Array_retrieve\bin\Debug\net9.0\Array_retrieve.deps.json
+D:\Transflower\TAP\DSA\Array_retrieve\bin\Debug\net9.0\Array_retrieve.runtimeconfig.json
+D:\Transflower\TAP\DSA\Array_retrieve\bin\Debug\net9.0\Array_retrieve.dll
+D:\Transflower\TAP\DSA\Array_retrieve\bin\Debug\net9.0\Array_retrieve.pdb
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.sourcelink.json
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.dll
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\refint\Array_retrieve.dll
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.pdb
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\Array_retrieve.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Array_retrieve\obj\Debug\net9.0\ref\Array_retrieve.dll
