@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\largest_element_fromArray\bin\Debug\net9.0\largest_element_fromArray.exe
+D:\Transflower\TAP\DSA\largest_element_fromArray\bin\Debug\net9.0\largest_element_fromArray.deps.json
+D:\Transflower\TAP\DSA\largest_element_fromArray\bin\Debug\net9.0\largest_element_fromArray.runtimeconfig.json
+D:\Transflower\TAP\DSA\largest_element_fromArray\bin\Debug\net9.0\largest_element_fromArray.dll
+D:\Transflower\TAP\DSA\largest_element_fromArray\bin\Debug\net9.0\largest_element_fromArray.pdb
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.sourcelink.json
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.dll
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\refint\largest_element_fromArray.dll
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.pdb
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\largest_element_fromArray.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\largest_element_fromArray\obj\Debug\net9.0\ref\largest_element_fromArray.dll
