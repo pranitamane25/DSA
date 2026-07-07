@@ -3,7 +3,6 @@ public class doublylinkedlist
 {
     Node head=null;
     Node current =null;
-
     public void InsertAtFront(int Data)
     {
         Node newNode=new Node(Data);
@@ -20,7 +19,6 @@ public class doublylinkedlist
             head=newNode;
         }
     }
-
     public void InsertAtEnd(int data)
     {
         Node newNode=new Node(data);
@@ -34,6 +32,25 @@ public class doublylinkedlist
         current.Next=newNode;
         newNode.Previous=current;
         }
+    }
+
+    public void DeleteFront()
+    {
+        if (head == null)
+        {
+            Console.WriteLine("list is empty");
+            return;
+        }
+        if (head.Next ==null)
+        {
+            head=null;
+            return;
+        }
+        head=head.Next;
+        head.Previous=null;
+        Console.WriteLine("After delete:" +"");
+        
+
     }
 
     public void Display()

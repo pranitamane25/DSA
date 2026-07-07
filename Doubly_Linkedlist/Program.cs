@@ -9,11 +9,12 @@ public class program
 
         dll.InsertAtFront(10);
         dll.InsertAtFront(5);
-        dll.InsertAtFront(2);
-        dll.InsertAtFront(20);
+        dll.InsertAtFront(21);
+        dll.InsertAtFront(21);
         dll.InsertAtEnd(30);
         dll.InsertAtEnd(50);
-        dll.Display();
+         dll.DeleteFront();
+         dll.Display();
     
         
     }
