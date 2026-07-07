@@ -48,9 +48,7 @@ public class doublylinkedlist
         }
         head=head.Next;
         head.Previous=null;
-        Console.WriteLine("After delete:" +"");
-        
-
+        Console.WriteLine("After delete:" +"");      
     }
 
     public void Display()
