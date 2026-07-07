@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\bin\Debug\net9.0\Doubly_Linkedlist.exe
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\bin\Debug\net9.0\Doubly_Linkedlist.deps.json
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\bin\Debug\net9.0\Doubly_Linkedlist.runtimeconfig.json
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\bin\Debug\net9.0\Doubly_Linkedlist.dll
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\bin\Debug\net9.0\Doubly_Linkedlist.pdb
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.sourcelink.json
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.dll
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\refint\Doubly_Linkedlist.dll
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.pdb
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\Doubly_Linkedlist.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Doubly_Linkedlist\obj\Debug\net9.0\ref\Doubly_Linkedlist.dll
