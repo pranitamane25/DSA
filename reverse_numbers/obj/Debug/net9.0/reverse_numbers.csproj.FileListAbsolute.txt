@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\reverse_numbers\bin\Debug\net9.0\reverse_numbers.exe
+D:\Transflower\TAP\DSA\reverse_numbers\bin\Debug\net9.0\reverse_numbers.deps.json
+D:\Transflower\TAP\DSA\reverse_numbers\bin\Debug\net9.0\reverse_numbers.runtimeconfig.json
+D:\Transflower\TAP\DSA\reverse_numbers\bin\Debug\net9.0\reverse_numbers.dll
+D:\Transflower\TAP\DSA\reverse_numbers\bin\Debug\net9.0\reverse_numbers.pdb
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.sourcelink.json
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.dll
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\refint\reverse_numbers.dll
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.pdb
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\reverse_numbers.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\reverse_numbers\obj\Debug\net9.0\ref\reverse_numbers.dll
