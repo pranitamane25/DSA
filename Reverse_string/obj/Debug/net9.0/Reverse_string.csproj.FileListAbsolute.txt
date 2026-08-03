@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.sourcelink.json
+D:\Transflower\TAP\DSA\Reverse_string\bin\Debug\net9.0\Reverse_string.exe
+D:\Transflower\TAP\DSA\Reverse_string\bin\Debug\net9.0\Reverse_string.deps.json
+D:\Transflower\TAP\DSA\Reverse_string\bin\Debug\net9.0\Reverse_string.runtimeconfig.json
+D:\Transflower\TAP\DSA\Reverse_string\bin\Debug\net9.0\Reverse_string.dll
+D:\Transflower\TAP\DSA\Reverse_string\bin\Debug\net9.0\Reverse_string.pdb
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.dll
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\refint\Reverse_string.dll
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.pdb
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\Reverse_string.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Reverse_string\obj\Debug\net9.0\ref\Reverse_string.dll
