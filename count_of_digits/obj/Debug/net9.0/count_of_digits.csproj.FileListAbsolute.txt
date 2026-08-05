@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\count_of_digits\bin\Debug\net9.0\count_of_digits.exe
+D:\Transflower\TAP\DSA\count_of_digits\bin\Debug\net9.0\count_of_digits.deps.json
+D:\Transflower\TAP\DSA\count_of_digits\bin\Debug\net9.0\count_of_digits.runtimeconfig.json
+D:\Transflower\TAP\DSA\count_of_digits\bin\Debug\net9.0\count_of_digits.dll
+D:\Transflower\TAP\DSA\count_of_digits\bin\Debug\net9.0\count_of_digits.pdb
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.sourcelink.json
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.dll
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\refint\count_of_digits.dll
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.pdb
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\count_of_digits.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\count_of_digits\obj\Debug\net9.0\ref\count_of_digits.dll
