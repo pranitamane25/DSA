@@ -1,4 +1,6 @@
-﻿public class Program{
+﻿
+//count the number of digits
+public class Program{
     public static void Main(){
         int num=1234578903;
         int count=0;
