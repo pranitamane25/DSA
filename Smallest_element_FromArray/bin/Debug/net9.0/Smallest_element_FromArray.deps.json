@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Smallest_element_FromArray/1.0.0": {
+        "runtime": {
+          "Smallest_element_FromArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smallest_element_FromArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
