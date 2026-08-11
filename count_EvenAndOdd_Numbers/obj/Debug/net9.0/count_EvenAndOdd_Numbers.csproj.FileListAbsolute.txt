@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\bin\Debug\net9.0\count_EvenAndOdd_Numbers.exe
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\bin\Debug\net9.0\count_EvenAndOdd_Numbers.deps.json
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\bin\Debug\net9.0\count_EvenAndOdd_Numbers.runtimeconfig.json
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\bin\Debug\net9.0\count_EvenAndOdd_Numbers.dll
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\bin\Debug\net9.0\count_EvenAndOdd_Numbers.pdb
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.sourcelink.json
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.dll
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\refint\count_EvenAndOdd_Numbers.dll
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.pdb
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\count_EvenAndOdd_Numbers.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\count_EvenAndOdd_Numbers\obj\Debug\net9.0\ref\count_EvenAndOdd_Numbers.dll
