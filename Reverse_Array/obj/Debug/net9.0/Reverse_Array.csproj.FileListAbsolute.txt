@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Reverse_Array\bin\Debug\net9.0\Reverse_Array.exe
+D:\Transflower\TAP\DSA\Reverse_Array\bin\Debug\net9.0\Reverse_Array.deps.json
+D:\Transflower\TAP\DSA\Reverse_Array\bin\Debug\net9.0\Reverse_Array.runtimeconfig.json
+D:\Transflower\TAP\DSA\Reverse_Array\bin\Debug\net9.0\Reverse_Array.dll
+D:\Transflower\TAP\DSA\Reverse_Array\bin\Debug\net9.0\Reverse_Array.pdb
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.sourcelink.json
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.dll
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\refint\Reverse_Array.dll
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.pdb
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\Reverse_Array.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Reverse_Array\obj\Debug\net9.0\ref\Reverse_Array.dll
