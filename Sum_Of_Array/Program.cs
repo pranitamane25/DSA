@@ -1,0 +1,14 @@
+﻿public class Program
+{
+    public static void Main()
+    {
+        int[] arr={10,20,40,50};
+        int sum=0;
+
+        for(int i = 0; i < arr.Length; i++)
+        {
+            sum=sum+arr[i];
+        }
+        Console.WriteLine("Sum of Array :" +sum );
+    }
+}
