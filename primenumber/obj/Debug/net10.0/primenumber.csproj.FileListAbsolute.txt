@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\primenumber\bin\Debug\net10.0\primenumber.exe
+D:\Transflower\TAP\DSA\primenumber\bin\Debug\net10.0\primenumber.deps.json
+D:\Transflower\TAP\DSA\primenumber\bin\Debug\net10.0\primenumber.runtimeconfig.json
+D:\Transflower\TAP\DSA\primenumber\bin\Debug\net10.0\primenumber.dll
+D:\Transflower\TAP\DSA\primenumber\bin\Debug\net10.0\primenumber.pdb
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.sourcelink.json
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.dll
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\refint\primenumber.dll
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.pdb
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\primenumber.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\primenumber\obj\Debug\net10.0\ref\primenumber.dll
