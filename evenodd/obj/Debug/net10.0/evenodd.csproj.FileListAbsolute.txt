@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\evenodd\bin\Debug\net10.0\evenodd.exe
+D:\Transflower\TAP\DSA\evenodd\bin\Debug\net10.0\evenodd.deps.json
+D:\Transflower\TAP\DSA\evenodd\bin\Debug\net10.0\evenodd.runtimeconfig.json
+D:\Transflower\TAP\DSA\evenodd\bin\Debug\net10.0\evenodd.dll
+D:\Transflower\TAP\DSA\evenodd\bin\Debug\net10.0\evenodd.pdb
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.sourcelink.json
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.dll
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\refint\evenodd.dll
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.pdb
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\evenodd.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\evenodd\obj\Debug\net10.0\ref\evenodd.dll
