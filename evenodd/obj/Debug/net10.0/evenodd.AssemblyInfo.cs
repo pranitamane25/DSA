@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("evenodd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac03c22b2a0a843735b07c265cabb9ad46999fca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a24f193e564fbdecac5c44f3b10b48f70b276ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("evenodd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("evenodd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
