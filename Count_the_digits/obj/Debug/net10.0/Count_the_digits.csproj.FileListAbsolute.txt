@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Count_the_digits\bin\Debug\net10.0\Count_the_digits.exe
+D:\Transflower\TAP\DSA\Count_the_digits\bin\Debug\net10.0\Count_the_digits.deps.json
+D:\Transflower\TAP\DSA\Count_the_digits\bin\Debug\net10.0\Count_the_digits.runtimeconfig.json
+D:\Transflower\TAP\DSA\Count_the_digits\bin\Debug\net10.0\Count_the_digits.dll
+D:\Transflower\TAP\DSA\Count_the_digits\bin\Debug\net10.0\Count_the_digits.pdb
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.sourcelink.json
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.dll
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\refint\Count_the_digits.dll
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.pdb
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\Count_the_digits.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Count_the_digits\obj\Debug\net10.0\ref\Count_the_digits.dll
