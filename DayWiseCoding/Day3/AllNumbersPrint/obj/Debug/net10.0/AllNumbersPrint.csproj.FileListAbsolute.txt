@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\bin\Debug\net10.0\AllNumbersPrint.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\bin\Debug\net10.0\AllNumbersPrint.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\bin\Debug\net10.0\AllNumbersPrint.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\bin\Debug\net10.0\AllNumbersPrint.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\bin\Debug\net10.0\AllNumbersPrint.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\refint\AllNumbersPrint.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\AllNumbersPrint.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\AllNumbersPrint\obj\Debug\net10.0\ref\AllNumbersPrint.dll
