@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Eligibility_checker\bin\Debug\net10.0\Eligibility_checker.exe
+D:\Transflower\TAP\DSA\Eligibility_checker\bin\Debug\net10.0\Eligibility_checker.deps.json
+D:\Transflower\TAP\DSA\Eligibility_checker\bin\Debug\net10.0\Eligibility_checker.runtimeconfig.json
+D:\Transflower\TAP\DSA\Eligibility_checker\bin\Debug\net10.0\Eligibility_checker.dll
+D:\Transflower\TAP\DSA\Eligibility_checker\bin\Debug\net10.0\Eligibility_checker.pdb
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.sourcelink.json
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.dll
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\refint\Eligibility_checker.dll
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.pdb
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\Eligibility_checker.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Eligibility_checker\obj\Debug\net10.0\ref\Eligibility_checker.dll
