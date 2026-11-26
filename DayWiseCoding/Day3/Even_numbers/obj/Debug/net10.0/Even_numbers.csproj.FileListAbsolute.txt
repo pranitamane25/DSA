@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\bin\Debug\net10.0\Even_numbers.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\bin\Debug\net10.0\Even_numbers.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\bin\Debug\net10.0\Even_numbers.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\bin\Debug\net10.0\Even_numbers.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\bin\Debug\net10.0\Even_numbers.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\refint\Even_numbers.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\Even_numbers.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day3\Even_numbers\obj\Debug\net10.0\ref\Even_numbers.dll
