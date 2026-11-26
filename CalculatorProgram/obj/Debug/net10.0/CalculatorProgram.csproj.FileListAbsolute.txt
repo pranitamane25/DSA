@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\CalculatorProgram\bin\Debug\net10.0\CalculatorProgram.exe
+D:\Transflower\TAP\DSA\CalculatorProgram\bin\Debug\net10.0\CalculatorProgram.deps.json
+D:\Transflower\TAP\DSA\CalculatorProgram\bin\Debug\net10.0\CalculatorProgram.runtimeconfig.json
+D:\Transflower\TAP\DSA\CalculatorProgram\bin\Debug\net10.0\CalculatorProgram.dll
+D:\Transflower\TAP\DSA\CalculatorProgram\bin\Debug\net10.0\CalculatorProgram.pdb
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.sourcelink.json
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.dll
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\refint\CalculatorProgram.dll
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.pdb
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\CalculatorProgram.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\CalculatorProgram\obj\Debug\net10.0\ref\CalculatorProgram.dll
