@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\NestedLoop\bin\Debug\net10.0\NestedLoop.exe
+D:\Transflower\TAP\DSA\NestedLoop\bin\Debug\net10.0\NestedLoop.deps.json
+D:\Transflower\TAP\DSA\NestedLoop\bin\Debug\net10.0\NestedLoop.runtimeconfig.json
+D:\Transflower\TAP\DSA\NestedLoop\bin\Debug\net10.0\NestedLoop.dll
+D:\Transflower\TAP\DSA\NestedLoop\bin\Debug\net10.0\NestedLoop.pdb
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.sourcelink.json
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.dll
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\refint\NestedLoop.dll
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.pdb
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\NestedLoop.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\NestedLoop\obj\Debug\net10.0\ref\NestedLoop.dll
