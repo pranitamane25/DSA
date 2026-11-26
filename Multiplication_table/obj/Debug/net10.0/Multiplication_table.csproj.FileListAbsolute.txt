@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Multiplication_table\bin\Debug\net10.0\Multiplication_table.exe
+D:\Transflower\TAP\DSA\Multiplication_table\bin\Debug\net10.0\Multiplication_table.deps.json
+D:\Transflower\TAP\DSA\Multiplication_table\bin\Debug\net10.0\Multiplication_table.runtimeconfig.json
+D:\Transflower\TAP\DSA\Multiplication_table\bin\Debug\net10.0\Multiplication_table.dll
+D:\Transflower\TAP\DSA\Multiplication_table\bin\Debug\net10.0\Multiplication_table.pdb
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.sourcelink.json
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.dll
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\refint\Multiplication_table.dll
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.pdb
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\Multiplication_table.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Multiplication_table\obj\Debug\net10.0\ref\Multiplication_table.dll
