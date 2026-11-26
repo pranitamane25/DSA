@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\bin\Debug\net10.0\Sum_of_numbers_1_To_N.exe
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\bin\Debug\net10.0\Sum_of_numbers_1_To_N.deps.json
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\bin\Debug\net10.0\Sum_of_numbers_1_To_N.runtimeconfig.json
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\bin\Debug\net10.0\Sum_of_numbers_1_To_N.dll
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\bin\Debug\net10.0\Sum_of_numbers_1_To_N.pdb
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.sourcelink.json
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.dll
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\refint\Sum_of_numbers_1_To_N.dll
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.pdb
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\Sum_of_numbers_1_To_N.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\Sum_of_numbers_1_To_N\obj\Debug\net10.0\ref\Sum_of_numbers_1_To_N.dll
