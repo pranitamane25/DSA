@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\bin\Debug\net10.0\PrintArrayEmements.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\bin\Debug\net10.0\PrintArrayEmements.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\bin\Debug\net10.0\PrintArrayEmements.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\bin\Debug\net10.0\PrintArrayEmements.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\bin\Debug\net10.0\PrintArrayEmements.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\refint\PrintArrayEmements.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\PrintArrayEmements.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\PrintArrayEmements\obj\Debug\net10.0\ref\PrintArrayEmements.dll
