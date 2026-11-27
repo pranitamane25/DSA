@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\bin\Debug\net10.0\Sum.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\bin\Debug\net10.0\Sum.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\bin\Debug\net10.0\Sum.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\bin\Debug\net10.0\Sum.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\bin\Debug\net10.0\Sum.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\refint\Sum.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\Sum.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\Sum\obj\Debug\net10.0\ref\Sum.dll
