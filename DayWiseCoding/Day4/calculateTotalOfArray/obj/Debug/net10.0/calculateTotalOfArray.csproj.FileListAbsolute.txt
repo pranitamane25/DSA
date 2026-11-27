@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\bin\Debug\net10.0\calculateTotalOfArray.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\bin\Debug\net10.0\calculateTotalOfArray.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\bin\Debug\net10.0\calculateTotalOfArray.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\bin\Debug\net10.0\calculateTotalOfArray.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\bin\Debug\net10.0\calculateTotalOfArray.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\refint\calculateTotalOfArray.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\calculateTotalOfArray.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateTotalOfArray\obj\Debug\net10.0\ref\calculateTotalOfArray.dll
