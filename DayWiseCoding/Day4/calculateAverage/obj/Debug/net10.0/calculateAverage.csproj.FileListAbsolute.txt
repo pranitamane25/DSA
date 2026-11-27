@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\bin\Debug\net10.0\calculateAverage.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\bin\Debug\net10.0\calculateAverage.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\bin\Debug\net10.0\calculateAverage.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\bin\Debug\net10.0\calculateAverage.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\bin\Debug\net10.0\calculateAverage.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\refint\calculateAverage.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\calculateAverage.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\calculateAverage\obj\Debug\net10.0\ref\calculateAverage.dll
