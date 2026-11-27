@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\bin\Debug\net10.0\SmallestNumber.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\bin\Debug\net10.0\SmallestNumber.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\bin\Debug\net10.0\SmallestNumber.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\bin\Debug\net10.0\SmallestNumber.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\bin\Debug\net10.0\SmallestNumber.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\refint\SmallestNumber.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\SmallestNumber.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\SmallestNumber\obj\Debug\net10.0\ref\SmallestNumber.dll

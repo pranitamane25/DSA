@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\bin\Debug\net10.0\EvenOdd_using_method.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\bin\Debug\net10.0\EvenOdd_using_method.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\bin\Debug\net10.0\EvenOdd_using_method.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\bin\Debug\net10.0\EvenOdd_using_method.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\bin\Debug\net10.0\EvenOdd_using_method.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\refint\EvenOdd_using_method.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\EvenOdd_using_method.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\EvenOdd_using_method\obj\Debug\net10.0\ref\EvenOdd_using_method.dll

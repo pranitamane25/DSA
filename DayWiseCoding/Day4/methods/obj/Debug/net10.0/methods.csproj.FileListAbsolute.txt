@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\bin\Debug\net10.0\methods.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\bin\Debug\net10.0\methods.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\bin\Debug\net10.0\methods.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\bin\Debug\net10.0\methods.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\bin\Debug\net10.0\methods.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\refint\methods.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\methods.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\methods\obj\Debug\net10.0\ref\methods.dll

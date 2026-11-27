@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\bin\Debug\net10.0\CountString.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\bin\Debug\net10.0\CountString.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\bin\Debug\net10.0\CountString.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\bin\Debug\net10.0\CountString.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\bin\Debug\net10.0\CountString.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\refint\CountString.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\CountString.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\CountString\obj\Debug\net10.0\ref\CountString.dll
