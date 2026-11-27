@@ -1,0 +1,15 @@
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\bin\Debug\net10.0\LargestNumberOfArray.exe
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\bin\Debug\net10.0\LargestNumberOfArray.deps.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\bin\Debug\net10.0\LargestNumberOfArray.runtimeconfig.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\bin\Debug\net10.0\LargestNumberOfArray.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\bin\Debug\net10.0\LargestNumberOfArray.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.AssemblyInfoInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.AssemblyInfo.cs
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.sourcelink.json
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\refint\LargestNumberOfArray.dll
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.pdb
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\LargestNumberOfArray.genruntimeconfig.cache
+D:\Transflower\TAP\DSA\DayWiseCoding\Day4\LargestNumberOfArray\obj\Debug\net10.0\ref\LargestNumberOfArray.dll
